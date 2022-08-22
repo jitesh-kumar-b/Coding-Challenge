@@ -1,0 +1,11 @@
+Respository Owner Login|Repository Name|Repository URL|Number of stars|Repository Created Date
+moyix|fauxpilot|https://api.github.com/repos/moyix/fauxpilot|5420|2022-08-03 02:14:22
+kifuan|helang|https://api.github.com/repos/kifuan/helang|1735|2022-08-16 17:21:44
+redballoonsecurity|ofrak|https://api.github.com/repos/redballoonsecurity/ofrak|975|2022-08-08 17:32:31
+NVIDIAGameWorks|kaolin-wisp|https://api.github.com/repos/NVIDIAGameWorks/kaolin-wisp|811|2022-07-26 13:03:29
+nnaisense|evotorch|https://api.github.com/repos/nnaisense/evotorch|622|2022-08-08 18:03:06
+jizhishutong|YOLOU|https://api.github.com/repos/jizhishutong/YOLOU|513|2022-07-25 14:14:06
+killiansheriff|LovelyPlots|https://api.github.com/repos/killiansheriff/LovelyPlots|505|2022-07-25 14:01:48
+iscyy|yoloair|https://api.github.com/repos/iscyy/yoloair|444|2022-08-05 09:37:53
+THUDM|GLM-130B|https://api.github.com/repos/THUDM/GLM-130B|428|2022-08-03 20:21:58
+mouredev|Hello-Python|https://api.github.com/repos/mouredev/Hello-Python|377|2022-08-03 17:14:53
